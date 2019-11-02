@@ -6,7 +6,8 @@ namespace GitHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git World !!!!!!! sa  ");
+            Console.WriteLine("Hello Git World !!!!!!! ");
+            Console.WriteLine("this is Developer 2 ");
         }
     }
 }
